@@ -1,6 +1,8 @@
 # Self Driving Car
 ## Neural Network using JavaScript with no Libraries
 
+<img width="1725" alt="Self-Driving-Car" src="https://github.com/user-attachments/assets/2824ce59-0b44-4b35-b0b1-c32a18af5245" />
+
 ## Overview
 This project is a car simulation that utilizes a neural network to control AI-driven cars on a road. The simulation visualizes the cars' movements and their interactions with traffic, allowing for the exploration of AI behavior in a driving context.
 
